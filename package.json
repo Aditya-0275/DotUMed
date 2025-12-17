@@ -1,0 +1,12 @@
+{
+  "name": "unimed",
+  "version": "1.0.0",
+  "description": "Unified and Secure Media Application.",
+  "license": "ISC",
+  "author": "Aditya Sharma Dotolya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
